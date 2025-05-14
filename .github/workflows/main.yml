@@ -49,4 +49,4 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: <ваш_логин_на_docker_hub>/qotics:latest
+          tags: <qotic>/qotic:latest
